@@ -1,0 +1,15 @@
+D:\program\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\netcoreapp3.1\CurrencyConverterAPI.exe
+D:\program\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\netcoreapp3.1\CurrencyConverterAPI.deps.json
+D:\program\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\netcoreapp3.1\CurrencyConverterAPI.runtimeconfig.json
+D:\program\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\netcoreapp3.1\CurrencyConverterAPI.runtimeconfig.dev.json
+D:\program\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\netcoreapp3.1\CurrencyConverterAPI.dll
+D:\program\CurrencyConverterAPI\CurrencyConverterAPI\bin\Debug\netcoreapp3.1\CurrencyConverterAPI.pdb
+D:\program\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\netcoreapp3.1\CurrencyConverterAPI.csprojAssemblyReference.cache
+D:\program\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\netcoreapp3.1\CurrencyConverterAPI.Form1.resources
+D:\program\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\netcoreapp3.1\CurrencyConverterAPI.csproj.GenerateResource.cache
+D:\program\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\netcoreapp3.1\CurrencyConverterAPI.AssemblyInfoInputs.cache
+D:\program\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\netcoreapp3.1\CurrencyConverterAPI.AssemblyInfo.cs
+D:\program\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\netcoreapp3.1\CurrencyConverterAPI.csproj.CoreCompileInputs.cache
+D:\program\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\netcoreapp3.1\CurrencyConverterAPI.dll
+D:\program\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\netcoreapp3.1\CurrencyConverterAPI.pdb
+D:\program\CurrencyConverterAPI\CurrencyConverterAPI\obj\Debug\netcoreapp3.1\CurrencyConverterAPI.genruntimeconfig.cache
